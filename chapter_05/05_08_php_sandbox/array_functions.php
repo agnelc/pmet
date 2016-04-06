@@ -19,7 +19,7 @@
 		Implode: <?php echo $string1 = implode(" * ", $array1); ?><br />
 		Explode: <?php print_r(explode(" * ", $string1)); ?><br />
 		<br />
-		In array: <?php echo in_array(15, $array1); // returns T/F ?><br />
+		In array: <?php echo in_array(4, $array1); // returns T/F ?><br />
 		
 	</body>
 </html>
